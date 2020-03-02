@@ -1,4 +1,4 @@
-///This code uses tab characters for alignment. For this alignment to look right, make sure that IntelliSense is on so that the tab width is 4 characters.
+//This code uses tab characters for alignment. For this alignment to look right, make sure that IntelliSense is on so that the tab width is 4 characters.
 
 //It is common to add, remove, transform, rename, reorder, and change the data type of columns, which causes many columns to be repeated across different functions.
 //Table.SelectColumns selects and reorders columns, which eliminates the need for Table.ReorderColumns.
